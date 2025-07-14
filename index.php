@@ -17,15 +17,12 @@ Shop The Farm
 	My Account
 
 Farm Stays
-RV & Camper Hookups: A practical page with rates, rules, amenities, and a simple booking calendar.
-
-The Homestead (a more appealing name for the double-wide): A page with photos, description, and an embedded Airbnb/VRBO listing or direct booking calendar.
+	RV & Camper Hookups: A practical page with rates, rules, amenities, and a simple booking calendar.
+	The Homestead (a more appealing name for the double-wide): A page with photos, description, and an embedded Airbnb/VRBO listing or direct booking calendar.
 
 Get Involved (or Work With Us)
-
-Volunteer & WWOOF Program: Details on what to expect, the type of work, length of stays, and amenities for volunteers.
-
-Application Form: An online application for prospective WWOOFers.
+	Volunteer & WWOOF Program: Details on what to expect, the type of work, length of stays, and amenities for volunteers.
+	Application Form: An online application for prospective WWOOFers.
 
 About
 	Our Farming Practices: A straightforward look at your regenerative, organic methods.
